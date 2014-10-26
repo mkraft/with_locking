@@ -1,7 +1,6 @@
 # WithLocking
 
-A gem to execute a block of code and ensure that one does not execute other code 
-until the block has completed executing. 
+A gem for creating a semaphore using a pid file.
 
 ## Installation
 
