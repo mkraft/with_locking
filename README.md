@@ -1,6 +1,6 @@
 # WithLocking
 
-A gem for creating a semaphore using a pid file.
+A gem for creating a mutex using a pid file.
 
 ## Installation
 
